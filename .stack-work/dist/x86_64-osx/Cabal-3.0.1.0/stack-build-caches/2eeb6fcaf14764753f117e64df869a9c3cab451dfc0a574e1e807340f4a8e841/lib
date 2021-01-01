@@ -19,17 +19,17 @@
 /Users/suzukimiyuki/Desktop/github-visualisation/config/robots.txt:
   hash: fd89345af6aca5dab85f2aa6a830e270a362b1fa6b5f19607ddd773a081ed651
 /Users/suzukimiyuki/Desktop/github-visualisation/templates/default-layout-wrapper.hamlet:
-  hash: 3eb1339646bbebe23b958b9b8ddbf68c7979576fc13008f023b23e32ebfef8be
+  hash: 1f99f25204b476fbef25b694b98bb3d8f59d95dc104893e18db34f85cc64bfab
 /Users/suzukimiyuki/Desktop/github-visualisation/src/Application.hs:
   hash: 0be37714071592f3f10941cad01b3f6194249488852b242d7278c03d30d93e09
 /Users/suzukimiyuki/Desktop/github-visualisation/templates/homepage.julius:
-  hash: b30d190f470d6a7ab022cc4248391cfb3633619abf6e2ddcfdf7e50497fb4e71
+  hash: d3b38ba80146c0deff4b7fbc4edddf558d4d79361f99271ff9a489445a8669c7
 /Users/suzukimiyuki/Desktop/github-visualisation/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/autogen/Paths_github_yesod.hs:
   hash: f2f8475e461ca37cea676174ee8901378f3703dc0f91f97248a108fef113c0fe
 /Users/suzukimiyuki/Desktop/github-visualisation/src/Settings/StaticFiles.hs:
   hash: 05d50ff4565a9c18c44102b7a541ecbfe7d71087bc99d14757edf5fe098816a0
 /Users/suzukimiyuki/Desktop/github-visualisation/templates/homepage.hamlet:
-  hash: 7447c204b0a30e03e1a33d5dfcffd2546287ab3d3d207bacb052766b117d3209
+  hash: 400f6fc94e67c0bfff6a0b94398ffb76693baa3af8ca182d8cd76603d22f33cc
 /Users/suzukimiyuki/Desktop/github-visualisation/src/Handler/Home.hs:
   hash: 88093d3e71b0d4458eb01ca0aef6dfc6b310519bc4425e1bac4dd4bb776d4232
 /Users/suzukimiyuki/Desktop/github-visualisation/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/autogen/cabal_macros.h:
