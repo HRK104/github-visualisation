@@ -18,8 +18,9 @@ var svg = d3.select("#my_dataviz")
     .append("g")
     .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
-// now we get data from static/json/users.json
-// Create dummy data
+// 3. finally get data from a web callback.
+// 2. now we get data from static/json/users.json
+// 1. Create dummy data
 /*var data = {Bill: 9,
 	    Ben:  20,
 	    John: 30,
