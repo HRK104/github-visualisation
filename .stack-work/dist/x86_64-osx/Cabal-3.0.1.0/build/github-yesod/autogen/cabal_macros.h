@@ -231,6 +231,17 @@
   (major1) == 0 && (major2) == 3 && (minor) <= 36)
 #endif /* MIN_VERSION_monad_logger */
 
+/* package random-1.1 */
+#ifndef VERSION_random
+#define VERSION_random "1.1"
+#endif /* VERSION_random */
+#ifndef MIN_VERSION_random
+#define MIN_VERSION_random(major1,major2,minor) (\
+  (major1) <  1 || \
+  (major1) == 1 && (major2) <  1 || \
+  (major1) == 1 && (major2) == 1 && (minor) <= 0)
+#endif /* MIN_VERSION_random */
+
 /* package safe-0.3.19 */
 #ifndef VERSION_safe
 #define VERSION_safe "0.3.19"
@@ -518,7 +529,7 @@
 #endif /* MIN_TOOL_VERSION_runghc */
 
 #ifndef CURRENT_COMPONENT_ID
-#define CURRENT_COMPONENT_ID "github-yesod-0.0.0-8YbPXAfKDkEJk3cREcLHq4-github-yesod"
+#define CURRENT_COMPONENT_ID "github-yesod-0.0.0-GkCpNmBKx8B2Uv51M2vkno-github-yesod"
 #endif /* CURRENT_COMPONENT_ID */
 #ifndef CURRENT_PACKAGE_VERSION
 #define CURRENT_PACKAGE_VERSION "0.0.0"

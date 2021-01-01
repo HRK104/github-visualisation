@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: d9c604b63e5594e4e577fcb224df006b77f9b9981e3b87b8f74ff3b31dab4c5e
+-- hash: 9448cf900c6b1942b0c059b2047892159d7d78f3fca6c575778eb798c1ff2fdf
 
 name:           github-yesod
 version:        0.0.0
@@ -55,6 +55,7 @@ library
     , http-conduit >=2.3 && <2.4
     , monad-control >=0.3 && <1.1
     , monad-logger >=0.3 && <0.4
+    , random
     , safe
     , shakespeare >=2.0 && <2.1
     , template-haskell
@@ -107,6 +108,7 @@ executable github-yesod
     , http-conduit >=2.3 && <2.4
     , monad-control >=0.3 && <1.1
     , monad-logger >=0.3 && <0.4
+    , random
     , safe
     , shakespeare >=2.0 && <2.1
     , template-haskell
@@ -160,6 +162,7 @@ test-suite github-yesod-test
     , http-conduit >=2.3 && <2.4
     , monad-control >=0.3 && <1.1
     , monad-logger >=0.3 && <0.4
+    , random
     , safe
     , shakespeare >=2.0 && <2.1
     , template-haskell

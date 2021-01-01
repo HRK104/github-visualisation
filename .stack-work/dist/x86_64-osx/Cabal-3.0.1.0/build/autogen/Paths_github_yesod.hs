@@ -30,7 +30,7 @@ version = Version [0,0,0] []
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 
 bindir     = "/Users/suzukimiyuki/Desktop/github-visualisation/.stack-work/install/x86_64-osx/2eeb6fcaf14764753f117e64df869a9c3cab451dfc0a574e1e807340f4a8e841/8.8.4/bin"
-libdir     = "/Users/suzukimiyuki/Desktop/github-visualisation/.stack-work/install/x86_64-osx/2eeb6fcaf14764753f117e64df869a9c3cab451dfc0a574e1e807340f4a8e841/8.8.4/lib/x86_64-osx-ghc-8.8.4/github-yesod-0.0.0-HasLFzwLqVy7FWuCuQL3MY"
+libdir     = "/Users/suzukimiyuki/Desktop/github-visualisation/.stack-work/install/x86_64-osx/2eeb6fcaf14764753f117e64df869a9c3cab451dfc0a574e1e807340f4a8e841/8.8.4/lib/x86_64-osx-ghc-8.8.4/github-yesod-0.0.0-BSEycy4qEs44FxZWFNG0MM"
 dynlibdir  = "/Users/suzukimiyuki/Desktop/github-visualisation/.stack-work/install/x86_64-osx/2eeb6fcaf14764753f117e64df869a9c3cab451dfc0a574e1e807340f4a8e841/8.8.4/lib/x86_64-osx-ghc-8.8.4"
 datadir    = "/Users/suzukimiyuki/Desktop/github-visualisation/.stack-work/install/x86_64-osx/2eeb6fcaf14764753f117e64df869a9c3cab451dfc0a574e1e807340f4a8e841/8.8.4/share/x86_64-osx-ghc-8.8.4/github-yesod-0.0.0"
 libexecdir = "/Users/suzukimiyuki/Desktop/github-visualisation/.stack-work/install/x86_64-osx/2eeb6fcaf14764753f117e64df869a9c3cab451dfc0a574e1e807340f4a8e841/8.8.4/libexec/x86_64-osx-ghc-8.8.4/github-yesod-0.0.0"
