@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> GitHub Visualise </title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="mb-2 mt-2 col-md-12">
+                Username: <input id="user" type="text" />
+                Token: <input id="token" type="text" placeholder="optional" />
+                <button onclick="handleInput()">Submit </button>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="mt-3 col-md-2">
+                <div class="well">
+                    <img class="mb-4 img-fluid" id="img" src=''>
+                    
+                    <p id="name"></p>
+                    <p id="login"></p>
+                    <p id="bio"></p>
+                    <p id="created_at"></p>
+                    <p id="followers"></p>
+                    <p id="following"></p>
+                    <p id="location"></p>
+                    <p id="public_repos"></p>
+                </div>
+            </div>
+            <div>
+                <div>
+                    <p><canvas id="language" width="700" height="300"></canvas></p><br>
+                </div>
+                <p id="data2"></p>
+                <div>
+                    <p><canvas id="commits" width="700" height="300"></canvas></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js"></script>
+    <script src="app.js" defer></script>
+</body>
+
+</html>
